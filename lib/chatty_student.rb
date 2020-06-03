@@ -1,4 +1,4 @@
-class Student < User
+class ChattyStudent < Studen
   def log_in
     super
     @in_class = true
