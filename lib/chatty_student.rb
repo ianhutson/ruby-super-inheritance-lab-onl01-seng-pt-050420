@@ -1,5 +1,6 @@
 class ChattyStudent < Student
     def raise_hand
+      puts.
   end
     def hello
     super
